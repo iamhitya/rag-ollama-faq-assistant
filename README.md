@@ -1,4 +1,4 @@
-# rag-ollama-faq-assistant
+# RAG Ollama FAQ Assistant
 
 Minimal RAG FAQ assistant using .NET 10 and Ollama.
 
